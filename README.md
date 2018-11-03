@@ -1,2 +1,3 @@
 # hello-world
-My first repository
+
+Hi everyone! My name is Azim, and i'm gonna give you a task!
